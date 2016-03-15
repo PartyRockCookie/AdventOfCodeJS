@@ -1,1 +1,1 @@
-This repo will be showing my code done in JS for AdventOfCode.
+This repo will be showing my code done in JS & jQuery for AdventOfCode.
